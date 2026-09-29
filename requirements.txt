@@ -9,3 +9,4 @@ pypdf
 pytest
 fastapi
 uvicorn
+httpx
