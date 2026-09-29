@@ -7,3 +7,5 @@ transformers
 torch
 pypdf
 pytest
+fastapi
+uvicorn
